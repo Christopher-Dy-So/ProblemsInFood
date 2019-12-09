@@ -1,0 +1,24 @@
+{
+  "name": "problems-in-food",
+  "version": "1.0.0",
+  "description": "Problem In Food",
+  "main": "docs/.vuepress/dist/",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs",
+    "lint": "eslint --ext .md,.vue docs"
+  },
+  "keywords": [],
+  "devDependencies": {
+    "eslint": "^5.9.0",
+    "eslint-config-airbnb-base": "^13.1.0",
+    "eslint-config-prettier": "^3.3.0",
+    "eslint-plugin-import": "^2.14.0",
+    "eslint-plugin-markdown": "^1.0.0-rc.0",
+    "eslint-plugin-vue": "^4.7.1",
+    "vuepress": "^0.14.5"
+  }
+}
