@@ -1,5 +1,7 @@
 # README
 
+made with [VuePress](https://vuepress.vuejs.org/guide/)
+
 ## Live Site (deployed to Netlify)
 [https://pensive-euler-06a81e.netlify.com](https://pensive-euler-06a81e.netlify.com)
 
