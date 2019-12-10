@@ -4,7 +4,7 @@ title: Problems in Food - Christopher So
 
 ![https://www.rd.com/wp-content/uploads/2018/08/What-is-MSG%E2%80%94And-How-Bad-Is-It-Really-3-760x506.jpg](https://www.rd.com/wp-content/uploads/2018/08/What-is-MSG%E2%80%94And-How-Bad-Is-It-Really-3-760x506.jpg)
 
-# Problems in Food
+# Problems in Food - Christopher So - FYW 2019
 > "There is no love sincerer than the love of food." -George Bernard Shaw, Man and Superman
 
 <!-- 
