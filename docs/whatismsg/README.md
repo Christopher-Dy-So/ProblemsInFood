@@ -10,8 +10,8 @@ metadesc: What is MSG? Is it bad for you?
 
 # What is MSG? Is it bad for you?
 
-MSG also known as Monosodium glutamate has always had a bad reputation in the media, just like anything that's rendy.
+MSG also known as Monosodium glutamate has always had a bad reputation in the media, just like anything that's trendy.
 
-Not this bring up the question. Is MSG actually bad for us?
+Now, this bring up the question. Is MSG actually bad for us?
 
 Most people across America choose to abide by scociety's negative view on MSG however they may have been worried for all these years for nothing.
