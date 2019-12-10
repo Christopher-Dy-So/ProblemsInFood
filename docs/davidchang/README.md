@@ -18,3 +18,4 @@ Chang also stated while eating MSG can cause some ill feeling, it is not a direc
 Just like spicy food, People can react to the additive in many different ways.
 
 It does not mean that one is allergic, but has a lower tolerance for it and should just eat less.
+!(https://www.youtube.com/watch?v=ji74pUeMayg&t=547s)
